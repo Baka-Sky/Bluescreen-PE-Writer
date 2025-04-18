@@ -1,0 +1,10 @@
+{
+    "control":[
+        { "VTOY_MENU_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" }
+    ],
+    "theme":{
+        "file": "/ventoy/theme/grub/grub/theme.txt",
+        "gfxmode": "1920x1080"
+    }
+}
